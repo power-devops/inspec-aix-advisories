@@ -1,0 +1,11 @@
+name: aixbase_advisory
+title: Vulnerability impacts AIX and VIOS
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability impacts AIX and VIOS - CVE-2018-1383
+version: 0.1.0
+supports:
+  - os-family: aix
+

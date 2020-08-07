@@ -1,0 +1,10 @@
+name: ntp_advisory10
+title: Vulnerabilities in NTP affect AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: There are multiple vulnerabilities in NTPv3 and NTPv4 that affect AIX
+version: 0.1.1
+supports:
+  - os-family: aix

@@ -1,0 +1,10 @@
+name: openssl_advisory25
+title: Vulnerability in OpenSSL used by AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in OpenSSL used by AIX - CVE-2017-3737
+version: 0.1.0
+supports:
+  - os-family: aix

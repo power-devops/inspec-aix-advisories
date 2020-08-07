@@ -1,0 +1,10 @@
+name: nas_advisory3
+title: Multiple Security vulnerabilities in IBM NAS(kerberos)
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Multiple Security vulnerabilities in IBM NAS(kerberos) - CVE-2014-5352, CVE-2014-5355, CVE-2014-9421, CVE-2014-9422, CVE-2014-9423
+version: 0.1.2
+supports:
+  - os-family: aix

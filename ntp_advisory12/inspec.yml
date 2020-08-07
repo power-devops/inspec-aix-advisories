@@ -1,0 +1,10 @@
+name: ntp_advisory12
+title: There is a vulnerability in NTPv3 and NTPv4 that affects AIX.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in NTP affects AIX (CVE-2019-8936)
+version: 0.1.2
+supports:
+  - os-family: aix

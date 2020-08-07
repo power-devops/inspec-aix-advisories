@@ -1,0 +1,11 @@
+name: tcpdump_advisory5
+title: There are vulnerabilities in tcpdump that affect AIX.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2020
+copyright_email: info@power-devops.com
+license: MIT
+summary: There are vulnerabilities in tcpdump that affect AIX.
+version: 0.1.0
+supports:
+  - os-family: aix
+

@@ -1,0 +1,10 @@
+name: itds_advisory2
+title: Vulnerabilities in GSKit affect IBM Tivoli Directory Server and IBM Security Directory Server for AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: There are multiple vulnerabilities in GSKit that affect IBM Tivoli Directory Server and IBM Security Directory Server for AIX. 
+version: 0.1.0
+supports:
+  - os-family: aix

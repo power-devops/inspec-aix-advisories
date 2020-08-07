@@ -1,0 +1,10 @@
+name: openssh_advisory13
+title: Vulnerabilities in OpenSSH affect AIX.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerabilities in OpenSSH affect AIX (CVE-2018-20685 CVE-2018-6109 CVE-2018-6110 CVE-2018-6111)
+version: 0.1.0
+supports:
+  - os-family: aix

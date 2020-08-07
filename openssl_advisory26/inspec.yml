@@ -1,0 +1,10 @@
+name: openssl_advisory26
+title: Vulnerability in OpenSSL affects AIX (CVE-2018-0739) 
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in OpenSSL affects AIX (CVE-2018-0739)
+version: 0.1.0
+supports:
+  - os-family: aix

@@ -1,0 +1,10 @@
+name: openssl_advisory30
+title: There is a vulnerability in OpenSSL used by AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in OpenSSL affects AIX (CVE-2019-1559)
+version: 0.1.0
+supports:
+  - os-family: aix

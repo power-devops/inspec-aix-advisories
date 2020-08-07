@@ -1,0 +1,10 @@
+name: java_advisory_20180612
+title: Multiple vulnerabilities in IBM Java SDK affect AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: There are multiple vulnerabilities in IBM SDK Java Technology Edition, Versions 7, 7.1, 8 that are used by AIX. These issues were disclosed as part of the IBM Java SDK updates in April 2018.
+version: 0.1.0
+supports:
+  - os-family: aix

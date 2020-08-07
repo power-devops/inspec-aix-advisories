@@ -1,0 +1,11 @@
+name: suid_advisory
+title: Vulnerabilities in bellmail, caccelstat, iostat, lquerypv, restbyinode, and vmstat affect AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: There is a potential root privilege escalation vulnerability in bellmail, caccelstat, iostat, lquerypv, restbyinode, and vmstat on AIX. 
+version: 0.1.1
+supports:
+  - os-family: aix
+

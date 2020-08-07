@@ -1,0 +1,10 @@
+name: variant4_advisory
+title: IBM has released AIX and VIOS iFixes in response to Speculative Store Bypass (SSB), also known as Variant 4.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: IBM has released the following fixes for AIX and VIOS in response to CVE-2018-3639.
+version: 0.1.1
+supports:
+  - os-family: aix

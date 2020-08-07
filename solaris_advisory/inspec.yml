@@ -1,0 +1,10 @@
+name: solaris_advisory
+title: There is a vulnerability in Oracle Solaris that affects AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in Oracle Solaris affects AIX (CVE-2017-3623)
+version: 0.1.0
+supports:
+  - os-family: aix

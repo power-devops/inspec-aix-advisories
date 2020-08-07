@@ -1,0 +1,10 @@
+name: sendmail_advisory3
+title: Vulnerability in sendmail impacts AIX (CVE-2014-3956)
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in sendmail impacts AIX (CVE-2014-3956)
+version: 0.1.1
+supports:
+  - os-family: aix

@@ -1,0 +1,10 @@
+name: spectre_update_advisory
+title: updated AIX and VIOS fixes for CVE-2017-5715, known as Spectre
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: IBM has released updated AIX and VIOS fixes for CVE-2017-5715, known as Spectre, that are only applicable to some POWER9 systems
+version: 0.1.1
+supports:
+  - os-family: aix

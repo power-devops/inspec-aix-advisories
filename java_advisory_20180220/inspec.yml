@@ -1,0 +1,10 @@
+name: java_advisory_20180220
+title: Multiple vulnerabilities may affect IBM SDK, Java Technology Edition
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Java SE issues disclosed in the Oracle January 2018 Critical Patch Update, plus one additional vulnerability 
+version: 0.1.0
+supports:
+  - os-family: aix

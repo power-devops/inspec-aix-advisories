@@ -1,0 +1,10 @@
+name: freebsd_advisory
+title: There is a vulnerability in FreeBSD that affects AIX.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerability in FreeBSD affects AIX (CVE-2018-6922)
+version: 0.1.1
+supports:
+  - os-family: aix

@@ -1,0 +1,10 @@
+name: rmsock_advisory2
+title: Vulnerability in rmsock affects AIX (CVE-2018-1655) 
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2018
+copyright_email: info@power-devops.com
+license: MIT
+summary: There is a vulnerability in the rmsock command that affects AIX.
+version: 0.1.0
+supports:
+  - os-family: aix

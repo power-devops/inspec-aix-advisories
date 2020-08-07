@@ -1,0 +1,10 @@
+name: java_jan2019_advisory
+title: Multiple vulnerabilities in IBM Java SDK affect AIX
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2019
+copyright_email: info@power-devops.com
+license: MIT
+summary: These issues were disclosed as part of the IBM Java SDK updates in January 2019.
+version: 0.1.0
+supports:
+  - os-family: aix
