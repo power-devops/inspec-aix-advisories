@@ -1,0 +1,11 @@
+name: bind_advisory17
+title: There are vulnerabilities in BIND that affect AIX.
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2020
+copyright_email: info@power-devops.com
+license: MIT
+summary: Vulnerabilities in BIND affect AIX (CVE-2020-8616 and CVE-2020-8617)
+version: 0.1.0
+supports:
+  - os-family: aix
+
